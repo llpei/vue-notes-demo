@@ -1,0 +1,14 @@
+{
+  "name": "vue-notes-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liangliangpei/vue-notes-demo.git",
+  "author": "llpei <llpei@sina.com>",
+  "license": "MIT",
+  "scripts":{
+    "start":"./node_modules/.bin/browser-sync start --server --no-notify --files='index.html,*.css,*.js'"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}

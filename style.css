@@ -1,0 +1,27 @@
+.notes{
+  margin-top: 32px;
+}
+
+.notes .ui textarea{
+  border: none;
+  padding: 0px;
+  margin: 32px 0;
+  font-size: 16px;
+}
+
+.ui > .items > .item > .content > .header{
+  display: block;
+  cursor: pointer;
+}
+
+.ui.items > .item > .meta{
+  width:88px;
+  color:rgb(0,0,0,0.4);
+  margin-top: 0px;
+  margin-bottom: 32px;
+}
+
+
+.trash.icon{
+  cursor:pointer;
+}

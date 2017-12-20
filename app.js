@@ -12,6 +12,7 @@ const Editor = {
     <div class="ui form">
       <div class="field">
         <textarea
+          class="textarea"
           row="5"
           placeholder="写点什么..."
           v-model='entity.body'

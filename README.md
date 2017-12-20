@@ -1,5 +1,4 @@
-# vue-notes-demo
-## VUE记事本
+# Vue-Notes-Demo VUE记事本
 ### 一、准备
 1. 项目整体概述以及演示；
 2. 准备VUE项目
